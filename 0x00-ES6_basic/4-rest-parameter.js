@@ -1,3 +1,2 @@
-export default function returnHowManyArguments(...args) {
-    return args.length;
-  }
+const returnHowManyArguments = (...args) => args.length;
+export default returnHowManyArguments;
