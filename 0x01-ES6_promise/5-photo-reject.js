@@ -6,7 +6,7 @@ export default function uploadPhoto(filename) {
         body: filename,
       });
     } else {
-      reject(new Error(`${filename} cannot be uploaded`));
+      reject(new Error(`${filename} cannot be processed`));
     }
   });
 }
