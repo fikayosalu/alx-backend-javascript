@@ -1,0 +1,1 @@
+This is a directory used to practice introduction to nodejs. This directory contains tasks to help understand nodejs basics
